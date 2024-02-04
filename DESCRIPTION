@@ -1,0 +1,12 @@
+Package: binarytrees
+Title: Create And Arrange Binary Tree Permutations
+Version: 1.0
+Authors@R: 
+    person("Nelson", "Stauffer", role = c("aut", "cre"))
+Description: Create permutations of binary trees with arbitrary layer counts. Additionally, arrange the trees into rosettes and rosettes into tilings. Write animated SVGs of radiating rosettes.
+License: MIT + file LICENSE
+Imports:
+    dplyr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
