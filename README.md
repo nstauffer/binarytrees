@@ -1,5 +1,5 @@
 # binarytrees
-<img src="man/figures/logo.png" align="right" height="150"/>
+<img src="man/figures/logo.svg" align="right" height="150"/>
 Create and arrange permutations of binary trees.
 
 This package is for generating line segments making up binary trees for art purposes. I can't imagine anyone has a practical use for this. There are functions for generating the trees, transforming them to create rosettes, and tiling the rosettes. They're independent so that you can use the output at any step for your own purposes, although you'll probably want to use something like ggplot to visualize the outputs. There's a wrapper function that just goes straight from the inputs to the data for plotting tessellated rosettes.

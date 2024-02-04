@@ -1,0 +1,118 @@
+<svg xmlns = 'http://www.w3.org/2000/svg' width = '300' height = '300' viewBox = '-150 -150 300 300'>
+<path d = ' M 116.91 67.5 L 0 135 L -116.91 67.5 L -116.91 -67.5 L 0 -135 L 116.91 -67.5 Z' fill = ' #a5e82b ' stroke = ' #8333e3 ' stroke-width = '10' />
+<path d = 'M 8.6,-15 L 8.6,-48.3 ' id =' 1-1-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '8.6 -15' />
+<path d = 'M 8.6,-15 L 37.5,-31.7 ' id =' 1-1-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '8.6 -15' />
+<path d = 'M 8.6,-48.3 L 8.6,-81.7 ' id =' 1-1-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '8.6 -48.3' />
+<path d = 'M 37.5,-31.7 L 66.4,-48.3 ' id =' 1-1-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '37.5 -31.7' />
+<path d = 'M 37.5,-31.7 L 37.5,-65 ' id =' 1-1-2-2-3-2 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '37.5 -31.7' />
+<path d = 'M 8.6,-81.7 L 8.6,-115 ' id =' 1-1-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '8.6 -81.7' />
+<path d = 'M 66.4,-48.3 L 95.3,-65 ' id =' 1-1-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '66.4 -48.3' />
+<path d = 'M 37.5,-65 L 37.5,-98.3 ' id =' 1-1-3-2-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '37.5 -65' />
+<path d = 'M 66.4,-48.3 L 66.4,-81.7 ' id =' 1-1-3-3-4-3 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '66.4 -48.3' />
+<path d = 'M 17.3,0 L 46.2,-16.7 ' id =' 1-2-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '17.3 0' />
+<path d = 'M 17.3,0 L 46.2,16.7 ' id =' 1-2-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '17.3 0' />
+<path d = 'M 46.2,-16.7 L 75,-33.3 ' id =' 1-2-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '46.2 -16.7' />
+<path d = 'M 46.2,16.7 L 75,33.3 ' id =' 1-2-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '46.2 16.7' />
+<path d = 'M 75,-33.3 L 103.9,-50 ' id =' 1-2-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '75 -33.3' />
+<path d = 'M 75,33.3 L 103.9,50 ' id =' 1-2-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '75 33.3' />
+<path d = 'M 75,-33.3 L 103.9,-16.7 ' id =' 1-2-3-1-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '75 -33.3' />
+<path d = 'M 75,33.3 L 103.9,16.7 ' id =' 1-2-3-3-4-3 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '75 33.3' />
+<path d = 'M 8.6,15 L 37.5,31.7 ' id =' 1-3-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '8.6 15' />
+<path d = 'M 8.6,15 L 8.6,48.3 ' id =' 1-3-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '8.6 15' />
+<path d = 'M 37.5,31.7 L 66.4,48.3 ' id =' 1-3-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '37.5 31.7' />
+<path d = 'M 8.6,48.3 L 8.6,81.7 ' id =' 1-3-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '8.6 48.3' />
+<path d = 'M 8.6,48.3 L 37.5,65 ' id =' 1-3-2-2-3-2 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '8.6 48.3' />
+<path d = 'M 66.4,48.3 L 95.3,65 ' id =' 1-3-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '66.4 48.3' />
+<path d = 'M 8.6,81.7 L 8.6,115 ' id =' 1-3-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '8.6 81.7' />
+<path d = 'M 37.5,65 L 66.4,81.7 ' id =' 1-3-3-2-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '37.5 65' />
+<path d = 'M 37.5,65 L 37.5,98.3 ' id =' 1-3-3-2-4-3 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '37.5 65' />
+<path d = 'M -8.6,15 L -8.6,48.3 ' id =' 1-4-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-8.6 15' />
+<path d = 'M -8.6,15 L -37.5,31.7 ' id =' 1-4-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-8.6 15' />
+<path d = 'M -8.6,48.3 L -8.6,81.7 ' id =' 1-4-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-8.6 48.3' />
+<path d = 'M -37.5,31.7 L -66.4,48.3 ' id =' 1-4-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-37.5 31.7' />
+<path d = 'M -8.6,48.3 L -37.5,65 ' id =' 1-4-2-1-3-2 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-8.6 48.3' />
+<path d = 'M -8.6,81.7 L -8.6,115 ' id =' 1-4-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-8.6 81.7' />
+<path d = 'M -66.4,48.3 L -95.3,65 ' id =' 1-4-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-66.4 48.3' />
+<path d = 'M -8.6,81.7 L -37.5,98.3 ' id =' 1-4-3-1-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-8.6 81.7' />
+<path d = 'M -37.5,65 L -66.4,81.7 ' id =' 1-4-3-2-4-3 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-37.5 65' />
+<path d = 'M -17.3,0 L -46.2,16.7 ' id =' 1-5-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-17.3 0' />
+<path d = 'M -17.3,0 L -46.2,-16.7 ' id =' 1-5-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-17.3 0' />
+<path d = 'M -46.2,16.7 L -75,33.3 ' id =' 1-5-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-46.2 16.7' />
+<path d = 'M -46.2,-16.7 L -75,-33.3 ' id =' 1-5-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-46.2 -16.7' />
+<path d = 'M -46.2,16.7 L -75,0 ' id =' 1-5-2-1-3-2 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-46.2 16.7' />
+<path d = 'M -75,33.3 L -103.9,50 ' id =' 1-5-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-75 33.3' />
+<path d = 'M -75,-33.3 L -103.9,-50 ' id =' 1-5-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-75 -33.3' />
+<path d = 'M -75,0 L -103.9,16.7 ' id =' 1-5-3-2-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-75 0' />
+<path d = 'M -75,0 L -103.9,-16.7 ' id =' 1-5-3-2-4-3 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-75 0' />
+<path d = 'M -8.6,-15 L -37.5,-31.7 ' id =' 1-6-1-1-2-1 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-8.6 -15' />
+<path d = 'M -8.6,-15 L -8.6,-48.3 ' id =' 1-6-1-1-2-2 ' class = 'tree_segment segment-start-y-id-1-1' transform-origin = '-8.6 -15' />
+<path d = 'M -37.5,-31.7 L -66.4,-48.3 ' id =' 1-6-2-1-3-1 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-37.5 -31.7' />
+<path d = 'M -8.6,-48.3 L -8.6,-81.7 ' id =' 1-6-2-2-3-3 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-8.6 -48.3' />
+<path d = 'M -37.5,-31.7 L -37.5,-65 ' id =' 1-6-2-1-3-2 ' class = 'tree_segment segment-start-y-id-1-2' transform-origin = '-37.5 -31.7' />
+<path d = 'M -66.4,-48.3 L -95.3,-65 ' id =' 1-6-3-1-4-1 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-66.4 -48.3' />
+<path d = 'M -8.6,-81.7 L -8.6,-115 ' id =' 1-6-3-3-4-4 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-8.6 -81.7' />
+<path d = 'M -37.5,-65 L -66.4,-81.7 ' id =' 1-6-3-2-4-2 ' class = 'tree_segment segment-start-y-id-1-3' transform-origin = '-37.5 -65' />
+<path d = 'M 8.6,-15 L 8.6,-48.3 ' id =' 2-1-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '8.6 -15' />
+<path d = 'M 8.6,-15 L 37.5,-31.7 ' id =' 2-1-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '8.6 -15' />
+<path d = 'M 8.6,-48.3 L 8.6,-81.7 ' id =' 2-1-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '8.6 -48.3' />
+<path d = 'M 37.5,-31.7 L 66.4,-48.3 ' id =' 2-1-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '37.5 -31.7' />
+<path d = 'M 8.6,-48.3 L 37.5,-65 ' id =' 2-1-2-1-3-2 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '8.6 -48.3' />
+<path d = 'M 8.6,-81.7 L 8.6,-115 ' id =' 2-1-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '8.6 -81.7' />
+<path d = 'M 66.4,-48.3 L 95.3,-65 ' id =' 2-1-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '66.4 -48.3' />
+<path d = 'M 37.5,-65 L 37.5,-98.3 ' id =' 2-1-3-2-4-2 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '37.5 -65' />
+<path d = 'M 66.4,-48.3 L 66.4,-81.7 ' id =' 2-1-3-3-4-3 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '66.4 -48.3' />
+<path d = 'M 17.3,0 L 46.2,-16.7 ' id =' 2-2-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '17.3 0' />
+<path d = 'M 17.3,0 L 46.2,16.7 ' id =' 2-2-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '17.3 0' />
+<path d = 'M 46.2,-16.7 L 75,-33.3 ' id =' 2-2-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '46.2 -16.7' />
+<path d = 'M 46.2,16.7 L 75,33.3 ' id =' 2-2-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '46.2 16.7' />
+<path d = 'M 46.2,16.7 L 75,0 ' id =' 2-2-2-2-3-2 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '46.2 16.7' />
+<path d = 'M 75,-33.3 L 103.9,-50 ' id =' 2-2-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '75 -33.3' />
+<path d = 'M 75,33.3 L 103.9,50 ' id =' 2-2-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '75 33.3' />
+<path d = 'M 75,0 L 103.9,-16.7 ' id =' 2-2-3-2-4-2 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '75 0' />
+<path d = 'M 8.6,15 L 37.5,31.7 ' id =' 2-3-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '8.6 15' />
+<path d = 'M 8.6,15 L 8.6,48.3 ' id =' 2-3-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '8.6 15' />
+<path d = 'M 37.5,31.7 L 66.4,48.3 ' id =' 2-3-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '37.5 31.7' />
+<path d = 'M 8.6,48.3 L 8.6,81.7 ' id =' 2-3-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '8.6 48.3' />
+<path d = 'M 66.4,48.3 L 95.3,65 ' id =' 2-3-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '66.4 48.3' />
+<path d = 'M 8.6,81.7 L 8.6,115 ' id =' 2-3-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '8.6 81.7' />
+<path d = 'M 8.6,81.7 L 37.5,98.3 ' id =' 2-3-3-3-4-3 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '8.6 81.7' />
+<path d = 'M -8.6,15 L -8.6,48.3 ' id =' 2-4-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-8.6 15' />
+<path d = 'M -8.6,15 L -37.5,31.7 ' id =' 2-4-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-8.6 15' />
+<path d = 'M -8.6,48.3 L -8.6,81.7 ' id =' 2-4-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-8.6 48.3' />
+<path d = 'M -37.5,31.7 L -66.4,48.3 ' id =' 2-4-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-37.5 31.7' />
+<path d = 'M -8.6,81.7 L -8.6,115 ' id =' 2-4-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-8.6 81.7' />
+<path d = 'M -66.4,48.3 L -95.3,65 ' id =' 2-4-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-66.4 48.3' />
+<path d = 'M -8.6,81.7 L -37.5,98.3 ' id =' 2-4-3-1-4-2 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-8.6 81.7' />
+<path d = 'M -17.3,0 L -46.2,16.7 ' id =' 2-5-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-17.3 0' />
+<path d = 'M -17.3,0 L -46.2,-16.7 ' id =' 2-5-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-17.3 0' />
+<path d = 'M -46.2,16.7 L -75,33.3 ' id =' 2-5-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-46.2 16.7' />
+<path d = 'M -46.2,-16.7 L -75,-33.3 ' id =' 2-5-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-46.2 -16.7' />
+<path d = 'M -46.2,-16.7 L -75,0 ' id =' 2-5-2-2-3-2 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-46.2 -16.7' />
+<path d = 'M -75,33.3 L -103.9,50 ' id =' 2-5-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-75 33.3' />
+<path d = 'M -75,-33.3 L -103.9,-50 ' id =' 2-5-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-75 -33.3' />
+<path d = 'M -75,33.3 L -103.9,16.7 ' id =' 2-5-3-1-4-2 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-75 33.3' />
+<path d = 'M -75,0 L -103.9,-16.7 ' id =' 2-5-3-2-4-3 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-75 0' />
+<path d = 'M -8.6,-15 L -37.5,-31.7 ' id =' 2-6-1-1-2-1 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-8.6 -15' />
+<path d = 'M -8.6,-15 L -8.6,-48.3 ' id =' 2-6-1-1-2-2 ' class = 'tree_segment segment-start-y-id-2-1' transform-origin = '-8.6 -15' />
+<path d = 'M -37.5,-31.7 L -66.4,-48.3 ' id =' 2-6-2-1-3-1 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-37.5 -31.7' />
+<path d = 'M -8.6,-48.3 L -8.6,-81.7 ' id =' 2-6-2-2-3-3 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-8.6 -48.3' />
+<path d = 'M -37.5,-31.7 L -37.5,-65 ' id =' 2-6-2-1-3-2 ' class = 'tree_segment segment-start-y-id-2-2' transform-origin = '-37.5 -31.7' />
+<path d = 'M -66.4,-48.3 L -95.3,-65 ' id =' 2-6-3-1-4-1 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-66.4 -48.3' />
+<path d = 'M -8.6,-81.7 L -8.6,-115 ' id =' 2-6-3-3-4-4 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-8.6 -81.7' />
+<path d = 'M -37.5,-65 L -37.5,-98.3 ' id =' 2-6-3-2-4-3 ' class = 'tree_segment segment-start-y-id-2-3' transform-origin = '-37.5 -65' />
+<style>
+.tree_segment {stroke-width: 5; stroke: #8333e3; stroke-linecap: round;}
+@keyframes segment-start-y-id-1-1-anim {0% { transform:scale(0); opacity:0;} 5e-04% { transform:scale(0); opacity:1;} 10.25665% { transform:scale(1); opacity:1;} 10.25715% { transform:scale(1); opacity:1;} 20.51335% { transform:scale(1); opacity:1;} 20.51385% { transform:scale(1); opacity:1;} 30.77% { transform:scale(1); opacity:1;} 30.7705% { transform:scale(1); opacity:1;} 38.46% { transform:scale(1); opacity:1;} 38.4605% { transform:scale(1); opacity:1;} 46.15% { transform:scale(1); opacity:0;} 46.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+@keyframes segment-start-y-id-1-2-anim {0% { transform:scale(0); opacity:0;} 5e-04% { transform:scale(0); opacity:0;} 10.25665% { transform:scale(0); opacity:0;} 10.25715% { transform:scale(0); opacity:1;} 20.51335% { transform:scale(1); opacity:1;} 20.51385% { transform:scale(1); opacity:1;} 30.77% { transform:scale(1); opacity:1;} 30.7705% { transform:scale(1); opacity:1;} 38.46% { transform:scale(1); opacity:1;} 38.4605% { transform:scale(1); opacity:1;} 46.15% { transform:scale(1); opacity:0;} 46.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+@keyframes segment-start-y-id-1-3-anim {0% { transform:scale(0); opacity:0;} 5e-04% { transform:scale(0); opacity:0;} 10.25665% { transform:scale(0); opacity:0;} 10.25715% { transform:scale(0); opacity:0;} 20.51335% { transform:scale(0); opacity:0;} 20.51385% { transform:scale(0); opacity:1;} 30.77% { transform:scale(1); opacity:1;} 30.7705% { transform:scale(1); opacity:1;} 38.46% { transform:scale(1); opacity:1;} 38.4605% { transform:scale(1); opacity:1;} 46.15% { transform:scale(1); opacity:0;} 46.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+@keyframes segment-start-y-id-2-1-anim {0% { transform:scale(0); opacity:0;} 50.0005% { transform:scale(0); opacity:1;} 60.25665% { transform:scale(1); opacity:1;} 60.25715% { transform:scale(1); opacity:1;} 70.51335% { transform:scale(1); opacity:1;} 70.51385% { transform:scale(1); opacity:1;} 80.77% { transform:scale(1); opacity:1;} 80.7705% { transform:scale(1); opacity:1;} 88.46% { transform:scale(1); opacity:1;} 88.4605% { transform:scale(1); opacity:1;} 96.15% { transform:scale(1); opacity:0;} 96.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+@keyframes segment-start-y-id-2-2-anim {0% { transform:scale(0); opacity:0;} 50.0005% { transform:scale(0); opacity:0;} 60.25665% { transform:scale(0); opacity:0;} 60.25715% { transform:scale(0); opacity:1;} 70.51335% { transform:scale(1); opacity:1;} 70.51385% { transform:scale(1); opacity:1;} 80.77% { transform:scale(1); opacity:1;} 80.7705% { transform:scale(1); opacity:1;} 88.46% { transform:scale(1); opacity:1;} 88.4605% { transform:scale(1); opacity:1;} 96.15% { transform:scale(1); opacity:0;} 96.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+@keyframes segment-start-y-id-2-3-anim {0% { transform:scale(0); opacity:0;} 50.0005% { transform:scale(0); opacity:0;} 60.25665% { transform:scale(0); opacity:0;} 60.25715% { transform:scale(0); opacity:0;} 70.51335% { transform:scale(0); opacity:0;} 70.51385% { transform:scale(0); opacity:1;} 80.77% { transform:scale(1); opacity:1;} 80.7705% { transform:scale(1); opacity:1;} 88.46% { transform:scale(1); opacity:1;} 88.4605% { transform:scale(1); opacity:1;} 96.15% { transform:scale(1); opacity:0;} 96.1505% { transform:scale(0); opacity:0;} 100% { transform:scale(0); opacity:0;}}
+.segment-start-y-id-1-1 {animation: segment-start-y-id-1-1-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+.segment-start-y-id-1-2 {animation: segment-start-y-id-1-2-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+.segment-start-y-id-1-3 {animation: segment-start-y-id-1-3-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+.segment-start-y-id-2-1 {animation: segment-start-y-id-2-1-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+.segment-start-y-id-2-2 {animation: segment-start-y-id-2-2-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+.segment-start-y-id-2-3 {animation: segment-start-y-id-2-3-anim; animation-duration: 6.5s; animation-timing-function: linear; animation-iteration-count: infinite;}
+</style>
+</svg>
