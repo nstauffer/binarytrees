@@ -6,7 +6,12 @@ This package is for generating line segments making up binary trees for art purp
 
 There's also a function for animating radiating rosettes as an SVG, if that sounds exciting.
 
-## Example 1: Tiling
+## Installation
+This sure as hell isn't on CRAN, so you'll have to install it from GitHub. The easiest way is to run:
+`remotes::install_github("nstauffer/binarytrees")`
+
+## Examples
+### Example 1: Tiling
 ```
 # Generate all permutations of binary trees with four layers
 # (keeping topologically identical variants)
@@ -70,7 +75,7 @@ So at each stage you can plot the segments to see what you've got. In this case,
   
   <img src="man/figures/tiles_8x8_4layer.png" width = "100%"/>
 
-## Example 2: Animating
+### Example 2: Animating
 ```
 # This will generate a 5-rosette animation of 5-layer binary trees
 animate_rosettes(n_layers = 5,
