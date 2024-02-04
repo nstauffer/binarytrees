@@ -623,16 +623,46 @@ tile_rosettes <- function(trees,
                                             }
                                           }))
 
+  # Let's make it so that we get a random rotation for each rosette to further
+  # break up repetition
+  set.seed(seed_number)
+  rotation_vector <- sample(x = seq(from = 0,
+                         by = 2 * pi / 6,
+                         length.out = n_rows * n_cols),
+                         size = n_rows * n_cols) %% (2 * pi)
 
   trees_shifted <- lapply(X = seq(from = 1, length.out = n_rows * n_cols, by = 1),
                           index_vector = index_vector,
+                          rotation_vector = rotation_vector,
                           trees_arranged_list = trees_arranged_list,
                           x_shift = x_shift,
                           y_shift = y_shift,
                           frame_shifts = frame_shifts,
-                          FUN = function(X, index_vector, trees_arranged_list, x_shift, y_shift, frame_shifts){
+                          FUN = function(X, index_vector, rotation_vector, trees_arranged_list, x_shift, y_shift, frame_shifts){
                             current_tree <- trees_arranged_list[[index_vector[X]]]
 
+                            # Apply the rotation
+                            rotated_coords <- dplyr::bind_rows(apply(X = current_tree,
+                                  MARGIN = 1,
+                                  rotation = rotation_vector[X],
+                                  FUN = function(X, rotation){
+                                    new_start_coords <- as.matrix(rotate(x_coord = as.numeric(X["start_x_coord"]),
+                                                               y_coord = as.numeric(X["start_y_coord"]),
+                                                               angle_rad = as.numeric(rotation)))
+                                    new_end_coords <- as.matrix(rotate(x_coord = as.numeric(X["end_x_coord"]),
+                                                               y_coord = as.numeric(X["end_y_coord"]),
+                                                               angle_rad = as.numeric(rotation)))
+                                    data.frame(start_x_coord = new_start_coords[1],
+                                               end_x_coord = new_end_coords[1],
+                                               start_y_coord = new_start_coords[2],
+                                               end_y_coord = new_end_coords[2])
+                                  }))
+
+                            current_tree <- dplyr::bind_cols(dplyr::select(current_tree,
+                                                                           -dplyr::matches("coord$")),
+                                                             rotated_coords)
+
+                            # Now translate
                             dplyr::mutate(.data = current_tree,
                                           start_x_coord = start_x_coord + x_shift * frame_shifts[X, "x_shift_increments"],
                                           end_x_coord = end_x_coord + x_shift * frame_shifts[X, "x_shift_increments"],
@@ -642,6 +672,7 @@ tile_rosettes <- function(trees,
 
   dplyr::bind_rows(trees_shifted)
 }
+
 
 # Just to convert from polar to Cartesian systems and back
 polar_to_cartesian <- function(radius,
